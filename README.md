@@ -50,7 +50,7 @@
 
 ### **BOM表与焊接**
 
-BOM表由iBOM生成，方便焊接👉  [PCB_2.0寸触摸屏_lctm-kit.html](Docs\PCB_2.0寸触摸屏_lctm-kit.html)  
+BOM表由iBOM生成，可以将仓库clone下来，在本地打开Docs下的 ***PCB_2.0寸触摸屏_lctm-kit.html*** 文件，方便焊接
 
 另外，LCTM-KIT使用0603封装的电阻电容，比较好焊接，所有元器件均可在某宝购买
 
