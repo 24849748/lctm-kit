@@ -13,15 +13,15 @@
 
 使用ESP32学习lvgl时需要使用TFT屏幕，于是使用立创EDA画了块屏幕转接板，同时搭载了MPU6050和SD卡，支持HDR、FPC连接
 
-![lctm-kit_1](Docs/lctm-kit_1.png)
+<img src="Docs/lctm-kit_1.png" alt="lctm-kit_1" style="zoom:50%;" />
 
-![lctm-kit_2](Docs/lctm-kit_2.png)
+<img src="Docs/lctm-kit_2.png" alt="lctm-kit_2" style="zoom:50%;" />
 
 ### **实物图**
 
-![lctm-kit_4](Docs/lctm-kit_4.jpg)
+<img src="Docs/lctm-kit_4.jpg" alt="lctm-kit_4" style="zoom: 50%;" />
 
-![lctm-kit_3](Docs/lctm-kit_3.jpg)
+<img src="Docs/lctm-kit_3.jpg" alt="lctm-kit_3" style="zoom:50%;" />
 
 
 
